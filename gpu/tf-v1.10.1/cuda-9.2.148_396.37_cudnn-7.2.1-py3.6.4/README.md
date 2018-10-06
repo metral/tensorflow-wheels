@@ -22,7 +22,7 @@ Tensorflow v1.10.1 - CUDA 9.2 - cuDNN 7.2
 | cuDNN   |  `7.2.1`   |
 | NCCL   |  `2.2.13`   |
 | GCC   |  `Ubuntu 6.4.0-17ubuntu1`   |
-| Python   |  `3.6.5`   |
+| Python   |  `3.6.4`   |
 | Bazel   |  `0.15.0`   |
 | Tested against NVIDIA Driver Runtime   |  `396.54`   |
 
