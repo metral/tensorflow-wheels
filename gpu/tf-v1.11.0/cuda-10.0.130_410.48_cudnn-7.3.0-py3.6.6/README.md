@@ -11,7 +11,7 @@ Tensorflow v1.11.0 | NVIDIA-410.57 | CUDA-10.0.130 | cuDNN-7.3.0
 
 1. [Download Wheel - (101MB)](https://drive.google.com/uc?id=1xCDskkaKEvQ9Uaor-hHOs8BbmR7ptGI6&export=download)
 
-*Note*: Hosted on GDrive due to 100GB Github file size limit.
+*Note*: Hosted on GDrive due to 100MB Github file size limit.
 
 md5: f22e33fc466b2ece414611a87589768f
 
