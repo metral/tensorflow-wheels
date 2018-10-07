@@ -1,10 +1,11 @@
 Tensorflow v1.11.0 | NVIDIA-410.57 | CUDA-10.0.130 | cuDNN-7.3.0
 =================
 
-* Compiled from source to **only** support GPU usage
-* No CPU / ATX\* support is enabled:
-  * This is needed to get around [errors in TF](https://github.com/tensorflow/tensorflow/issues/19584) when using older CPUs, or
-  * When GPU support is the only mode desired.
+* [Installation](#installation)
+* [Build Info and Versions](#build-info-and-versions)
+* [Bazel Compilation Parameters](#bazel-compilation-parameters)
+* [Environment Packages](#environment-packages)
+
 
 ## Installation
 
@@ -16,7 +17,11 @@ md5: f22e33fc466b2ece414611a87589768f
 
 2. `pip install tensorflow-1.11.0-cp36-cp36m-linux_x86_64.whl`
 
-## Component Versions
+## Build Info and Versions
+* Compiled from source to **only** support GPU usage
+* No CPU / ATX\* support is enabled:
+  * This is needed to get around [errors in TF](https://github.com/tensorflow/tensorflow/issues/19584) when using older CPUs, or
+  * When GPU support is the only mode desired.
 
 | Component | Version |
 | :-------------: | :-------------: |
