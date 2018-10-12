@@ -27,7 +27,7 @@ md5: f22e33fc466b2ece414611a87589768f
 | :-------------: | :-------------: |
 | Distro   | `Ubuntu 18.04.1`   |
 | Kernel   |  `4.18.5 x86_64`   |
-| GPU / Compute Capcity     |  `Nvidia GeForce GTX 1080 TI` - `6.1`  |
+| GPU / Compute Capacity     |  `Nvidia GeForce GTX 1080 TI` - `6.1`  |
 | Tensorflow   |  `v1.11.0`   |
 | NVIDIA   |  `410.57`   |
 | CUDA   |  `10.0.130_410.48`   |
